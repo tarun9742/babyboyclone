@@ -1,0 +1,359 @@
+body h5{
+   background-color: #d9d9f9;
+   margin-top: 0%;
+   height: 17px;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.container1{
+    margin-left: 60px;
+    background-color: #fff;
+}
+.table1{
+    
+}
+.mytable1{
+    width: 100%;
+    height: 30px;
+}
+.table1row1{
+    display: flex;
+    color: black;
+    width: 100%;
+    height: 100px;
+}
+.container2{
+    display: flex;
+    height: 400px;
+    background-color: #fff3f5;
+    padding-top: 142px;
+    padding-left: 46px;
+}
+.container3{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 50px;
+}
+.container3-img{
+    display: flex;
+    margin-left: 75px;
+    padding-right: 1px;
+    padding-left: 1px;
+    justify-content: space-around;
+    width: 90%;
+    margin-top: 40px;
+    
+}
+.container3-img img{
+    border: 2px solid pink;
+    width: 200px;
+    height: 200;
+    border-radius: 17px;
+}
+.container4{
+    background-color: #fff3f5;
+    margin-top: 110px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    padding-top: 20px;
+    
+}
+.container42{
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    margin-left: 75px;
+    padding: 2px;
+}
+.container42 img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid pink;
+    border-radius: 17px;
+}
+.container43{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin-left: 298px;
+    margin-top: 38px;
+    padding: 2px;
+}
+.container43 img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid pink;
+    border-radius: 17px;
+}
+.container5{
+    display: flex;
+    background-color: #f9e0e4;
+}
+.container5 img{
+    width: 748px;
+    height: 561px;
+    margin-top: 110px;
+}
+.container52{
+    padding-top: 198px;
+    padding-left: 64px;
+}
+.container52 p{
+    font-size: 14px;
+}
+.container52 h1{
+    
+    color: #087e8b;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 42px;
+}
+#btn{
+    background: #087e8b;
+    border-radius: 4px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+    color: #fcf2f2;
+    padding: 10px 15px;
+    display: inline-block;
+    border: none;
+    margin-top: 54px;
+    margin-left: 363px;
+}
+.container6{
+    display: flex;
+    margin-top: 110px;
+}
+.container61{
+    padding-top: 93px;
+    padding-left: 83px;
+}
+.container61 h1{
+    color: #087e8b;
+}
+.container62{
+    display: flex;
+    padding-left: 70px;
+}
+.container62 img{
+    width: 312px;
+    height: 312px;
+}
+.container7{
+    
+        margin-top: 95px;
+        text-align: center;
+        align-content: center;
+        align-items: center;
+        width: 88%;
+        margin-left: 87px;
+}
+.container72 img{
+    width: 290px;
+    height: 290px;
+    border-radius: 12px;
+}
+
+.container72{
+    margin-top: 40px;
+    display: flex;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.container73{
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.container72 div p{
+    margin-top: -5px;
+    padding-left: 26px;
+}
+.container8{
+    
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 118px;
+    
+}
+.container82{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.container821{
+    display: flex;
+    align-items: center;
+    border-radius: 1px;
+    padding: 1px;
+        background-color: #ededed;
+        border-radius: 15px;
+        margin-right: 10px;
+
+}
+.container821 a{
+    margin-left: 20px;
+    margin-top: 1px;
+}
+.container821 img{
+    border-radius: 20px;
+}
+.container821 p{
+    margin-top: -15px;
+    margin-left: 13px;
+}
+.container821 h4{
+    margin-top: -18px;
+    margin-left: 13px;
+}
+.container822{
+    display: flex;
+    align-items: center;
+    border-radius: 1px;
+    padding: 1px;
+    background-color: #ededed;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.container822 a{
+    margin-left: 20px;
+    margin-top: 1px;
+}
+.container822 img{
+    border-radius: 20px;
+}
+.container822 p{
+    margin-top: -15px;
+    margin-left: 13px;
+}
+.container822 h4{
+    margin-top: -18px;
+    margin-left: 13px;
+}
+.container823{
+     display: flex;
+     align-items: center;
+     border-radius: 1px;
+     padding: 1px;
+    background-color: #ededed;
+    border-radius: 15px;
+}
+.container823 a{
+    margin-left: 20px;
+    margin-top: 1px;
+}
+.container823 img{
+    border-radius: 20px;
+}
+.container823 p{
+     margin-top: -15px;
+     margin-left: 13px;   
+}
+.container823 h4{
+    margin-top: -18px;
+    margin-left: 13px;
+}
+
+.container9{
+    margin-left: 116px;
+    width: 92%;
+    margin-top: 210px;
+    text-align: center;
+    align-items: center;
+}
+.container91{
+
+}
+.container92{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.container92 img{
+    width: 260px;
+    height: 200px;
+    border: 0.5px solid #f2eaeb;
+    border-radius: 10px;
+}
+.container10{
+    width: 90%;
+    margin-left: 95px;
+    margin-top: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.container101{
+    text-align: center;
+}
+.container102{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.container10 img{
+    border-radius: 15px;
+}
+
+.container11{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 61px;
+    padding-top: 20px;
+    height: 400px;
+}
+.container111{
+    
+}
+.container112{
+    margin-left: 122px;
+}
+.container113{
+    margin-left: 69px;
+}
+.container114{
+    margin-left: 35px;
+    width: 160px;
+}
+.container115{
+    margin-left: 50px;
+}
+#lastbtn{
+    margin-left: -62px;
+    width: 95px;
+    height: 38px;
+    background-color: #232020;
+    color: white;
+    border-radius: 10px;
+}
+footer{
+    border-top: 1px solid rgb(165, 139, 144);
+    margin-top: -108px;
+    margin-left: 61px;
+}
+img{
+    src: url(https://thebabybo.com/);
+}
